@@ -109,7 +109,7 @@ zijn beide 1.5 van  $$c_{best}$$ verwijderd. De onzekerheid op $$c$$ is dus 1.5.
 Het resultaat van de fit van ons model aan de data is als volgt:
 percentage goede passes = $$ 60.3 \pm1.5$$
 
-## Opgave: fitten van een model aan de data
+## Opdracht: fitten van een model aan de data
 
 Schrijf een programma **fit.py** dat het bovenstaande resultaat verifieert.
 
@@ -126,4 +126,4 @@ Schrijf een programma **fit.py** dat het bovenstaande resultaat verifieert.
 
 ## Sanity check
 
-Je kunt deze opgaven allemaal maken met de Python-onderdelen die je kent uit modules 1 en 2!
+Je kunt deze opdrachten allemaal maken met de Python-onderdelen die je kent uit modules 1 en 2!
