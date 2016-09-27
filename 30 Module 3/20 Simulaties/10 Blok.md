@@ -51,9 +51,9 @@ Tip:
 
 
 
-# Opgave 2: vrije val van base jumpers
+# Opdracht 2: vrije val van base jumpers
 
-In de vorige opgave is de luchtwrijving verwaarloosd waardoor je ook met behulp van de natuurkunde 
+In de vorige opdracht is de luchtwrijving verwaarloosd waardoor je ook met behulp van de natuurkunde 
 van de middelbare school de antwoorden kon controleren. We gaan nu een stuk realisme toevoegen: luchtwrijving. 
 
 De luchtweerstand die een vallend voorwerp ondervindt is evenredig met het kwadraat van de snelheid. 
@@ -91,4 +91,4 @@ zoals gegeven in bovenstaande formule. Nee hierbij aan dat de basejumper 72 kilo
 
 ## Sanity check
 
-Je kunt deze opgaven allemaal maken met de Python-onderdelen die je kent uit modules 1 en 2!
+Je kunt deze opdrachten allemaal maken met de Python-onderdelen die je kent uit modules 1 en 2!
