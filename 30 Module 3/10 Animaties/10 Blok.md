@@ -10,7 +10,7 @@ Module 3 bestaat uit twee delen:
 We kunnen maar een zeer klein aantal mogelijkheden laten zien die Matplotlib
 ons biedt om data te visualiseren. Als laatste item zullen we kijken hoe we 2
 grafieken naast elkaar kunnen tekenen. In de opgaves van de rest van deze
-modules zullen we dit ook morgen zullen we dit ook gebruiken op het moment dat
+modules zullen we dit ook mogen gebruiken op het moment dat
 er gevraagd wordt zowel de snelheid als de positie van een object te tekenen
 als functie van de tijd.
 
