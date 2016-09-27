@@ -1,9 +1,9 @@
-# Opgave 4: Angry Birds
+# Opdracht 4: Angry Birds
 
 We bekijken een situatie zoals in het plaatje hieronder getekend waarbij 
 een bal wordt weggeschoten vanaf de positie (x=0, y=20) met snelheid 
 $$v$$ onder een hoek ($$\alpha$$). In het programma **angry_birds.py** gaan 
-we bestuderen welk pad de bal zal afleggen. Net as in de vorige opgaves 
+we bestuderen welk pad de bal zal afleggen. Net as in de vorige opdrachten 
 gebeurt dat onder invloed van de zwaartekracht.
 
 ![](AngryBirdOverviewLeeg.png)
@@ -40,7 +40,7 @@ de druksensor zorgen.
 
 ![](AngryBirdOverview.png)
 
-Tip bij deze opgave:
+Tip bij deze opdracht:
 
 - bepaal of je kan herkennen als de bal de lijn $$y=20$$ kruist en test of *als* dat gebeurt het is in het gebied van de druksensor: $$12<x<14$$. 
 
@@ -71,4 +71,4 @@ $$0.5$$ in $$x$$ en $$2.0$$ in $$y$$ respectievelijk.
 
 ## Sanity check
 
-Je kunt deze opgaven allemaal maken met de Python-onderdelen die je kent uit modules 1 en 2!
+Je kunt deze opdrachten allemaal maken met de Python-onderdelen die je kent uit modules 1 en 2!
