@@ -4,7 +4,7 @@ De appel van vorige week bereikt na iets meer dan 4 seconden het aardoppervlak.
 Stel nou eens dat precies op de plek waar de appel neervalt een tunnel is
 gegraven dwars door de aarde heen.
 
-# Opgave 3: de ultieme free-fall
+# Opdracht 3: de ultieme free-fall
 
 Schrijf een programma **tunnel.py** die de beweging van de appel door de aarde
 heen beschrijft. Het deeltje beweegt langs de $$x$$-as met $$x=0$$ in het
@@ -15,7 +15,7 @@ aardoppervlak. Wat gebeurt er precies?
 
 Tips:
 
-- Verwaarloos luchtweerstand in deze opgave.
+- Verwaarloos luchtweerstand in deze opdracht.
 
 - De effectieve massa van de aarde, de massa 'die aan je trekt' is wordt
   kleiner naarmate je dichter bij het centrum komt. Dus: als de aarde $$M_{\rm
@@ -37,7 +37,7 @@ Tips:
 
 ## Natuurkunde inzicht achteraf
 
-Hoewel dit een ingewikkeld probleem lijkt was het toch mogelijk geweest deze opgave op te lossen met pen en papier. De effectieve kracht die op een deeltje werkt groeit lineair als functie van de afstand tot het middelpunt van de aarde. Als een deeltje vanuit het centrum van de aarde ($$x=0$$) naar buiten beweegt (positie $$x=r$$) geldt immers:
+Hoewel dit een ingewikkeld probleem lijkt was het toch mogelijk geweest deze opdracht op te lossen met pen en papier. De effectieve kracht die op een deeltje werkt groeit lineair als functie van de afstand tot het middelpunt van de aarde. Als een deeltje vanuit het centrum van de aarde ($$x=0$$) naar buiten beweegt (positie $$x=r$$) geldt immers:
 
   - De effectieve gravitatieconstante groeit als $$r^3$$ omdat de effectieve massa van de bol die aan het object trekt groeit met $$r^3$$. Er geldt dus: $$F\propto r^3$$.
 
