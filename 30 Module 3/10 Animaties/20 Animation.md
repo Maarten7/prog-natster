@@ -108,7 +108,7 @@ weergeven over de $$(x,y)$$ positie van het punt op het scherm.
 
 ![](AnimationExampleSin3.gif)
 
-## Opgave 1: animatie van spiraliserende stip
+## Opdracht 1: animatie van spiraliserende stip
 
 Een balletje draait met een bepaalde hoeksnelheid rond en met elke stap in de
 tijd verandert niet alleen de hoek, maar wordt ook de straal steeds kleiner tot
@@ -129,7 +129,7 @@ Schrijf een programma **spiraal.py** waarin de stip geanimeerd wordt zoals hierb
    - $$\alpha$$ varieert van $$0$$ tot $$20$$ in stappen van $$0.1$$
    - $$R$$ hangt af van $$\alpha$$, nl: $$R=10-0.5\alpha$$
 
-## Opgave 2: de dronken student
+## Opdracht 2: de dronken student
 
 Een dronken student (die natuurlijk geen natuurkunde studeert, want die liggen altijd
 keurig vroeg in bed) neemt elke seconde een stap. De grootte van de stap is
